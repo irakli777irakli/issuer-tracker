@@ -1,0 +1,27 @@
+[
+    {
+        "Id": 1,
+        "UserName": "Olya",
+        "Email": "Olya@gmail.com",
+        "Password": "Pa$$word",
+        "DateOfBirth": "2000-10-04",
+        "Country": "Russia"
+    },
+    {
+        "Id": 2,
+        "UserName": "Liza",
+        "Email": "Liza@gmail.com",
+        "Password": "Pa$$word",
+        "DateOfBirth": "2000-10-04",
+        "Country": "Ukraine"
+    },
+    {
+        "Id": 3,
+        "UserName": "Elena",
+        "Email": "Elena@gmail.com",
+        "Password": "Pa$$word",
+        "DateOfBirth": "2000-10-04",
+        "Country": "Russia"
+    }
+
+]

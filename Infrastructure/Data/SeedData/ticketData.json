@@ -1,0 +1,67 @@
+[
+    {
+        "TicketId": 1,
+        "Title": "Stripe does not work in Turkey",
+        "Description": "When I try to order my wooden Wardrope, it directs to 404 page no found",
+        "BugSevarity": 0,
+        "BugStatus": 0,
+        "ProjectId": 1,
+        "SubmiterId": 1,
+        "DeveloperId": 1
+
+    },
+    {
+        "TicketId": 2,
+        "Title": "Floating points in Checkout",
+        "Description": "When I am in checkout I got total cost in float numbers with 9 digit precision, it's akward.",
+        "BugSevarity": 1,
+        "BugStatus": 1,
+        "ProjectId": 1,
+        "SubmiterId": 1,
+        "DeveloperId": 1
+
+    },
+    {
+        "TicketId": 3,
+        "Title": "Screen freezes while transaction",
+        "Description": "when I am makin concurent transaction, app crashes, but to be fair money return back after some time.",
+        "BugSevarity": 1,
+        "BugStatus": 0,
+        "ProjectId": 2,
+        "SubmiterId": 2,
+        "DeveloperId": 2
+
+
+    },
+    {
+        "TicketId": 4,
+        "Title": "Iphone Animations",
+        "Description": "Animations on Iphone device looks wierd, compared to Android",
+        "BugSevarity": 2,
+        "BugStatus": 1,
+        "ProjectId": 2,
+        "SubmiterId": 2,
+        "DeveloperId": 2
+
+    },
+    {
+        "TicketId": 5,
+        "Title": "Properties visibility",
+        "Description": "some Properties are not visible on Google Maps",
+        "BugSevarity": 0,
+        "BugStatus": 2,
+        "ProjectId": 3,
+        "SubmiterId": 3
+
+    },
+    {
+        "TicketId": 6,
+        "Title": "bug notification Toastr",
+        "Description": "notifications are delayed, when adding project, or assigned developer to ticket.",
+        "BugSevarity": 1,
+        "BugStatus": 0,
+        "ProjectId": 5,
+        "SubmiterId": 5
+
+    }
+]

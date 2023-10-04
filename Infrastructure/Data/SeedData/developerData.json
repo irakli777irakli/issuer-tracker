@@ -1,0 +1,35 @@
+[
+    {
+        "Id": 1,
+        "UserName": "irakli",
+        "Email": "irakli@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Georgia",
+        "SpecializeIn": 0,
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 1
+    },
+    {
+        "Id": 2,
+        "UserName": "giorgi",
+        "Email": "giorgi@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Georgia",
+        "SpecializeIn": 1,
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 2
+
+    },
+    {
+        "Id": 3,
+        "UserName": "irakli",
+        "Email": "irakli@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Georgia",
+        "SpecializeIn": 0,
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 2
+        
+
+    }
+]

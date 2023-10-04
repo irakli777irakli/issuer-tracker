@@ -1,0 +1,53 @@
+[
+    {
+        "Id": 1,
+        "BussinessTypes": 0,
+        "UserName": "Arkad",
+        "Email": "Arkad@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Russia",
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 1
+    },
+    {
+        "Id": 2,
+        "BussinessTypes": 1,
+        "UserName": "Oleg",
+        "Email": "Oleg@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Russia",
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 2
+    },
+
+    {
+        "Id": 3,
+        "BussinessTypes": 2,
+        "UserName": "Sasha",
+        "Email": "Sasha@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Ukraine",
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 3
+    },
+    {
+        "Id": 4,
+        "BussinessTypes": 0,
+        "UserName": "Ben",
+        "Email": "Sasha@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "Germany",
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 4
+    },
+    {
+        "Id": 5,
+        "BussinessTypes": 1,
+        "UserName": "Mayo",
+        "Email": "Mayo@gmail.com",
+        "Password": "Pa$$word",
+        "Country": "UK",
+        "DateOfBirth": "2000-10-04",
+        "ProjectId": 5
+    }
+]

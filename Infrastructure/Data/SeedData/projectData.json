@@ -1,0 +1,34 @@
+
+[
+    {
+        "Id": 1,
+        "ProjectManagerId": 1,
+        "Title": "Ecommerce Store Pananina",
+        "Description": "Pananina is a Ecommerce store, which sells Wooden objects, for House and officce"
+    },
+    {
+        "Id": 2,
+        "ProjectManagerId": 1,
+        "Title": "Online Banking system Oursha",
+        "Description": "This is Online banking system, which should be distributed across the world, crypto wallet support"
+    },
+    {
+        "Id": 3,
+        "ProjectManagerId": 2,
+        "Title": "Real Estate Tracker ID",
+        "Description": "This app should track all of the Real Estate related info in Idaho State, on Day basis, calculate annual Property price by day, month, year"
+    },
+    {
+        "Id": 4,
+        "ProjectManagerId": 2,
+        "Title": "Computer Rapiar Management System",
+        "Description": "When customer come to my Office I need to track them with following info, computer requirements, how much they pay, How often they visit Us ..."
+    },
+    {
+        "Id": 5, 
+        "ProjectManagerId": 3,
+        "Title": "Bug Trucking Software",
+        "Description": "Issue Tracker should track bags of given project. It should have Project Manager, Developer and Submiter with proper roles and access to tickets."
+    }
+
+]
